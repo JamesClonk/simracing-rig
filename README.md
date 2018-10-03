@@ -1,7 +1,7 @@
 # simracing-rig
 Design sketches &amp; plans for a simracing rig
 
-## SketchUp
+## Schematic
 
 [SimRig Edition 2018 - SketchUp Schematic](https://github.com/JamesClonk/simracing-rig/raw/master/SimRig_Edition_2018.skp "SimRig Edition 2018 - SketchUp Schematic")
 
@@ -26,10 +26,10 @@ Design sketches &amp; plans for a simracing rig
   - 2x 250mm
   - 1x 200mm
 
-- 110x brackets (type-40, 36x36mm)
-Optionally 40x80 brackets and/or 80x80 brackets could used instead for various parts, like for example attaching the horizontal base.
-
 - 6x locking levers
+- 110x brackets (type-40, 36x36mm)
+
+Optionally 40x80 brackets and/or 80x80 brackets could used instead for various parts, like for example attaching the horizontal base.
 
 ## Pictures
 
