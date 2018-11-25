@@ -31,6 +31,11 @@ Design sketches &amp; plans for a simracing rig
 
 Optionally 40x80 brackets and/or 80x80 brackets could used instead for various parts, like for example attaching the horizontal base.
 
+- Levers: https://www.motedis.com/shop/Slot-profile-accessories/Accessoiries-40-I-Type-slot-8/Angle-Clamp-40-with-Locking-Lever-I-Type-slot-8::666.html
+- Brackets: https://www.motedis.com/shop/Slot-profile-accessories/Accessoiries-40-I-Type-slot-8/Bracket-40-I-Typ-slot-8::98.html
+- Slot profiles: https://www.motedis.com/shop/Slot-profiles/Profile-40-I-Type-slot-8:::1_3.html
+- and more...
+
 ## Pictures
 
 ![SimRig Edition 2018 - Picture 1](https://github.com/JamesClonk/simracing-rig/raw/master/images/SimRig_Edition_2018_01.jpg "SimRig Edition 2018 - Picture 1")
